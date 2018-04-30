@@ -1,2 +1,2 @@
 # XDEBUG
-Docker imagen XDEBUG que permite depurar el codigo PHP mediante PHPSTORM 
+Docker XDEBUG image that allows you to debug PHP code using PHPSTORM
